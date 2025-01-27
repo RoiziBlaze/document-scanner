@@ -24,7 +24,8 @@
 Для того, чтобы программный код заработал, следует предварительно загрузить требуемые библиотеки.
 Это можно сделать, прописав через терминал следующие команды:<br /><br />
 
-"pip3 install torch torchvision"<br />
-"pip install easyocr"<br />
-"pip install opencv-python"<br />
-"pip install fpdf"<br />
+```
+pip3 install torch torchvision
+pip install easyocr
+pip install opencv-python
+pip install fpdf
